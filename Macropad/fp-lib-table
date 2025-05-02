@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal_r2.pretty")(options "")(descr ""))
   (lib (name "Kalih")(type "KiCad")(uri "${KIPRJMOD}/Kalih.pretty")(options "")(descr ""))
+  (lib (name "Macropad")(type "KiCad")(uri "/home/sean/Projects/copperkeyboard/Macropad")(options "")(descr ""))
 )
